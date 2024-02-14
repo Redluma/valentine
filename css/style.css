@@ -54,14 +54,14 @@ body {
 .flower {
     width: 2000px;
     height: auto;
-    margin-top: 229px;
     margin-left: -10px;
+    position:absolute; bottom: 0;
 }
 .flower2 {
     width: 2000px;
     height: auto;
-    margin-top: 500px;
     margin-left: -10px;
+    position:absolute; bottom: 0;
 }
 .no-scroll {
     overflow: hidden;
