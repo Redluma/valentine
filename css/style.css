@@ -1,0 +1,50 @@
+body {
+    background: url(../media/heart-up.gif);
+    background-position: center;
+    background-size: cover;
+    background-color: lightpink;
+}
+.title {
+    text-align: center;
+    font-size: 69px;
+    color: #f22458;
+}
+.font-fam {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.font {
+    font-size: 32px;
+    text-align: center;
+    margin: 0 420px;
+}
+.cat-big {
+    display: inline-block;
+    margin: 0 592px;
+}
+.video {
+    box-sizing: border-box;
+    margin: auto;
+    display: block;
+}
+.emote {
+    height: 48px;
+    width: 48px;
+}
+.little-kitty {
+    margin: 200px 0px 0px 847px;
+}
+.maze {
+    width: 1302;
+    height: auto;
+    margin: auto;
+    display: inline-block;
+    padding: 50px 50px 50px 150px;
+}
+.last-thumbnail {
+    display: inline;
+    margin-bottom: 285px;
+}
+.cat3 {
+    display: block;
+    margin: auto;
+}
