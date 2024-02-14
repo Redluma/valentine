@@ -3,6 +3,7 @@ body {
     background-position: center;
     background-size: cover;
     background-color: lightpink;
+    overflow-x: hidden;
 }
 .title {
     text-align: center;
@@ -45,6 +46,23 @@ body {
     margin-bottom: 285px;
 }
 .cat3 {
-    display: block;
-    margin: auto;
+    display: inline-block;
+    margin: 0px 850px 0px 850px;
+    width: 220px;
+    height: auto;
+}
+.flower {
+    width: 2000px;
+    height: auto;
+    margin-top: 229px;
+    margin-left: -10px;
+}
+.flower2 {
+    width: 2000px;
+    height: auto;
+    margin-top: 500px;
+    margin-left: -10px;
+}
+.no-scroll {
+    overflow: hidden;
 }
